@@ -208,6 +208,9 @@ Para mais informações sobre os padrões do commit do <b>Conventional Commits</
 
 <div align="center">
   <p>&copy; 2024 Todos os direitos reservados. | Feito com ♥ e café pela equipe AxemDev.</p>
+  <a href="mailto:axemdev@gmail.com">
+    <img align="center" src="https://github.com/axemdev/AxemDev-Library/assets/76459155/76e098d4-121a-4d8c-8d6f-0ec02e68d43c" alt="EmailIcon" width="25px" title="E-mail"/>
+  </a>&#xa0; • &#xa0;
   <a href="https://github.com/axemdev">
     <img align="center" src="https://github.com/axemdev/AxemDev-Library/assets/76459155/9e03fb6b-a125-4855-9585-5cf3f8c53e60" alt="GithubIcon" width="25px" title="Github"/>
   </a>&#xa0; • &#xa0;
