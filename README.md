@@ -14,7 +14,7 @@ REFERÊCIAS USADAS NA DOCUMENTAÇÃO DESTE REPOSITÓRIO (NÃO DELETAR ESTA SEÇ�
 
 <!-- CABEÇALHO -->
 <div align="center">
-  <img src="https://i.ibb.co/wQ1Td1x/logox2-removebg.png" alt="imagemLogoTitulo" width="124px" title="Repositório da AxemDev Library">
+  <img src="https://i.ibb.co/wQ1Td1x/logox2-removebg.png" alt="imagemLogoTitulo" width="200px" title="Repositório da AxemDev Library">
   <h2 align="center">AxemDev Library</h2>
 </div>
 
@@ -22,14 +22,14 @@ REFERÊCIAS USADAS NA DOCUMENTAÇÃO DESTE REPOSITÓRIO (NÃO DELETAR ESTA SEÇ�
 
 <div align="center">
   <p align="center">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/axemdev/AxemDev-Library?logo=star&style=social&logoColor=black" alt="starsBadge">
-    <img src="https://custom-icon-badges.demolab.com/github/forks/axemdev/AxemDev-Library?logo=fork&style=social&logoColor=black" alt="forksBadge">
-    <img src="https://custom-icon-badges.demolab.com/github/watchers/axemdev/AxemDev-Library?logo=eye&style=social&logoColor=black" alt="watchersBadge">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/axemdev/AxemDev-Library?logo=star&logoColor=black" alt="starsBadge">
+    <img src="https://custom-icon-badges.demolab.com/github/forks/axemdev/AxemDev-Library?logo=fork&logoColor=black" alt="forksBadge">
+    <img src="https://custom-icon-badges.demolab.com/github/watchers/axemdev/AxemDev-Library?logo=eye&logoColor=black" alt="watchersBadge">
   <br>
-    <img src="https://custom-icon-badges.demolab.com/github/issues-raw/axemdev/AxemDev-Library?logo=issue" alt="issuesBadge">
-    <img src="https://custom-icon-badges.demolab.com/github/license/axemdev/AxemDev-Library" alt="licenseBadge">
+    <img src="https://custom-icon-badges.demolab.com/github/issues-raw/axemdev/AxemDev-Library?logo=issue&logoColor=yellow" alt="issuesBadge">
+    <img src="https://custom-icon-badges.demolab.com/github/license/axemdev/AxemDev-Library?logo=law&logoColor=orange" alt="licenseBadge">
     <img src="https://custom-icon-badges.demolab.com/github/actions/workflow/status/axemdev/AxemDev-Library/ci.yml?branch=main&logo=check-circle-fill&logoColor=white" alt="workflowStatusBadge">
-    <img src="https://custom-icon-badges.demolab.com/github/last-commit/axemdev/AxemDev-Library?logo=history&logoColor=white" alt="lastCommitBadge">
+    <img src="https://custom-icon-badges.demolab.com/github/last-commit/axemdev/AxemDev-Library?logo=history&logoColor=green" alt="lastCommitBadge">
   </p>
 </div>
 
@@ -136,6 +136,7 @@ Para mais informações sobre os padrões do commit do <b>Conventional Commits</
                     <sub><b>Ícaro Gomes</b></sub><br>
                     <sub><b>(Fundador)</b></sub>
                 </a><br><br>
+                <a href="https://github.com/axemdev/AxemDev-Library/commits?author=icarodredd" title="Code">💻</a>
                 <a href="https://github.com/axemdev/AxemDev-Library/commits?author=icarodredd" title="Design">🎨</a>
                 <a href="https://github.com/axemdev/AxemDev-Library/commits?author=icarodredd" title="Project Management">📆</a>
                 <a href="https://github.com/axemdev/AxemDev-Library/commits?author=icarodredd" title="Ideas & Planning">🤔</a>
@@ -147,6 +148,8 @@ Para mais informações sobre os padrões do commit do <b>Conventional Commits</
                     <sub><b>Júlio Cézar</b></sub><br>
                     <sub><b>(Co-Fundador)</b></sub>
                 </a><br><br>
+                <a href="https://github.com/axemdev/AxemDev-Library/commits?author=juletopi" title="Design">🎨</a>
+                <a href="https://github.com/axemdev/AxemDev-Library/commits?author=juletopi" title="Ideas & Planning">🤔</a>
                 <a href="https://github.com/axemdev/AxemDev-Library/commits?author=juletopi" title="Documentation">📖</a>
             </td>
             <td align="center" valign="top" width="14.28%">
@@ -182,7 +185,12 @@ Para mais informações sobre os padrões do commit do <b>Conventional Commits</
 
 <!-- LICENÇA -->
 <h2>Licença</h2>
-<p>Este repositório está sob a licença <b><a href="https://www.gnu.org/licenses/gpl-3.0.html">LICENSE<a/></b>.</p>
+
+<p>Este repositório está sob a licença <b>GPL-3.0 license</b>, enquanto a aplicação do site está sob a licença <b>{insira a licença do site aqui}</b>.</p>
+
+<p>Para mais informações sobre a licença deste repositório, consulte o arquivo <a href="https://github.com/axemdev/AxemDev-Library/blob/main/LICENSE">LICENSE</a>.</p>
+<p>E para mais informações sobre a licença da aplicação do site, consulte <a href="https://linkdalicençaaqui">{insira o link de licença do site aqui}</a>.</p>
+
 
 <div align="left">
   <h6><a href="#axemdev-library"> Voltar para o início ↺</a></h6>
@@ -201,9 +209,9 @@ Para mais informações sobre os padrões do commit do <b>Conventional Commits</
 <div align="center">
   <p>&copy; 2024 Todos os direitos reservados. | Feito com ♥ e café pela equipe AxemDev.</p>
   <a href="https://github.com/axemdev">
-    <img align="center" src="https://github.com/axemdev/AxemDev-Library/assets/76459155/9e03fb6b-a125-4855-9585-5cf3f8c53e60" alt="GithubIcon" width="30px" title="Github"/>
+    <img align="center" src="https://github.com/axemdev/AxemDev-Library/assets/76459155/9e03fb6b-a125-4855-9585-5cf3f8c53e60" alt="GithubIcon" width="25px" title="Github"/>
   </a>&#xa0; • &#xa0;
   <a href="https://discord.gg/ADntJgAk">
-    <img align="center" src="https://github.com/axemdev/AxemDev-Library/assets/76459155/328aedc5-7942-4b9e-98a5-f5b6c38b4bfb" alt="DiscordIcon" width="30px" title="Discord"/>
+    <img align="center" src="https://github.com/axemdev/AxemDev-Library/assets/76459155/328aedc5-7942-4b9e-98a5-f5b6c38b4bfb" alt="DiscordIcon" width="25px" title="Discord"/>
   </a>
 </div>
