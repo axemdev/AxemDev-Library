@@ -3,3 +3,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.crop {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
